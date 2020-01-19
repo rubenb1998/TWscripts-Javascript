@@ -1,0 +1,39 @@
+[table]
+
+[**]Vanuit[||]Doelwit[||]Troop[||]Verstuur tijd[||]Aankomst tijd[||]Doel[/**]
+
+[*][coord]542|521[/coord][|][coord]553|529[/coord][|][|][color=#0000ff]01:16:57[/color] [|]08:05:00[|][color=#ff0000]CLEAR[/color] 
+
+[*][coord]564|518[/coord][|][coord]566|505[/coord][|][|]01:30:25 [|]08:05:00[|]FAKE
+
+[*][coord]543|523[/coord][|][coord]556|523[/coord][|][|]01:35:00 [|]08:05:00[|][color=#ff0000]FAKE[/color]
+
+[*][coord]545|520[/coord][|][coord]556|521[/coord][|][|][color=#0000ff]01:38:25[/color][|]08:05:00[|]Fake Trein
+
+[*][coord]542|526[/coord][|][coord]554|522[/coord][|][|]01:45:32 [|]08:05:00[|]FAKE
+
+[*][coord]543|525[/coord][|][coord]553|529[/coord][|][|][color=#0000ff]01:48:02[/color][|]08:05:00[|]ECHTE TREIN
+
+[*][coord]544|524[/coord][|][coord]556|521[/coord][|][|]01:53:55 [|]08:05:00[|]FAKE
+
+[*][coord]542|521[/coord][|][coord]554|522[/coord][|][|]02:03:45 [|]08:05:00[|]FAKE
+
+[*][coord]543|523[/coord][|][coord]553|529[/coord][|][|][color=#0000ff]02:15:09[/color][|]08:05:00[|]CLEAR
+
+[*][coord]557|541[/coord][|][coord]554|531[/coord][|][|][color=#0000ff]02:51:47[/color] [|]08:05:00[|]CLEAR
+
+[*][coord]541|523[/coord][|][coord]550|527[/coord][|][|][color=#0000ff]03:09:32[/color] [|]08:05:00[|]CLEAR
+
+[*][coord]542|524[/coord][|][coord]550|527[/coord][|][|][color=#0000ff]03:48:41[/color] [|]08:05:00[|]CLEAR
+
+[*][coord]547|526[/coord][|][coord]554|522[/coord][|][|]04:03:08 [|]08:05:00[|]FAKE/ClEAR
+
+[*][coord]546|522[/coord][|][coord]554|522[/coord][|][|]04:05:00 [|]08:05:00[|]FAKE
+
+[*][coord]548|534[/coord][|][coord]554|531[/coord][|][|][color=#0000ff]04:10:13[/color] [|]08:05:00[|]ECHTE Trein
+
+[*][coord]549|522[/coord][|][coord]550|527[/coord][|][|][color=#0000ff]05:06:32[/color] [|]08:05:00[|]ECHTE Trein
+
+[*][coord]555|536[/coord][|][coord]554|531[/coord][|][|][color=#0000ff]05:32:02[/color] [|]08:05:00[|]CLEAR
+
+[/table]
